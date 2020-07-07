@@ -1,5 +1,3 @@
 안녕하세요.
 
 지금은 origin/master branch merge Test 중 입니다.
-
-origin/develop/mergeTest branch 추가함.
